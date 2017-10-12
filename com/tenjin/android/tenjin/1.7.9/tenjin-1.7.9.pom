@@ -5,6 +5,7 @@
   <groupId>com.tenjin.android</groupId>
   <artifactId>tenjin</artifactId>
   <version>1.7.9</version>
+  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
